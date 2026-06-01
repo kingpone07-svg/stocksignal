@@ -1,0 +1,12 @@
+{
+  "name": "stocksignal",
+  "version": "1.0.0",
+  "description": "StockSignal – KI Aktienanalyse",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^42.3.0"
+  }
+}
